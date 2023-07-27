@@ -1,0 +1,8 @@
+.headerDiv {
+  width: 100%;
+}
+
+.headerDiv a {
+  width: 150px;
+  margin-right: 20px;
+}
